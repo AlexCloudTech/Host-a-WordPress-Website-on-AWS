@@ -1,4 +1,4 @@
-### Hosting a WordPress Website on AWS
+![Alt text](2._Host_a_WordPress_Website_on_AWS.png)
 
 
 
